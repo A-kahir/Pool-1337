@@ -16,5 +16,5 @@ This project explores various concepts and tasks related to Shell and C programm
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/1337-khouribga.git
-cd 1337-khouribga
+git clone https://github.com/akahir/akahir-1337.git
+cd akahir-1337
